@@ -27,4 +27,26 @@ _End-to-end Data Analysis project using Python to analyze hotel booking behavior
 
 - <a href="#final-recommendations">Final Recommendations</a>
 
-<a href="#author--contact">Author & Contact</a>
+- <a href="#author--contact">Author & Contact</a>
+
+# 🎯 Business Problem
+
+- Hotel businesses frequently struggle with:
+
+- High cancellation rates
+
+- Seasonal demand fluctuations
+
+- Revenue instability
+
+- Over-dependence on Online Travel Agencies (OTAs)
+
+- This analysis helps answer:
+
+- Which hotel type faces higher cancellations?
+
+- Does lead time impact cancellation probability?
+
+- How does pricing influence booking behavior?
+
+- Which market segment dominates revenue?
