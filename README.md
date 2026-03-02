@@ -21,10 +21,10 @@ _End-to-end Data Analysis project using Python to analyze hotel booking behavior
 
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 
--<a href="#predictive-modeling">Predictive Modeling</a>
+- <a href="#predictive-modeling">Predictive Modeling</a>
 
--<a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
 
-<a href="#final-recommendations">Final Recommendations</a>
+- <a href="#final-recommendations">Final Recommendations</a>
 
 <a href="#author--contact">Author & Contact</a>
