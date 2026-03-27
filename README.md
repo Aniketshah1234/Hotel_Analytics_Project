@@ -93,14 +93,13 @@ The dataset contains booking-level information for both **City Hotels** and **Re
 
 ## 🗂️ Project Structure
 
-Hotel_Analytics_Project/
-│
-├── Data Analysis (Hotel Booking).ipynb # Main analysis notebook
-├── hotel_bookings 2.csv # Dataset
-├── Report.pdf # Project report
-├── README.md # Documentation
-└── .ipynb_checkpoints/ # Notebook backups
-
+    Hotel_Analytics_Project/
+    │
+    ├── Data Analysis (Hotel Booking).ipynb
+    ├── hotel_bookings 2.csv
+    ├── Report.pdf
+    ├── README.md
+    └── .ipynb_checkpoints/
 
 ---
 
